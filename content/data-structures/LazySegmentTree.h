@@ -1,12 +1,3 @@
-/**
- * Author: Jdurie
- * Description: jdurie lzseg
- */
-#define F(i, l, r) for(ll i = l; i < (r); ++i)
-#define FD(i, r, l) for(ll i = r - 1; i > (l); --i)
-#define N 100010
-#define L 20
-
 namespace lztree {
     typedef ll T;
     typedef ll U;
