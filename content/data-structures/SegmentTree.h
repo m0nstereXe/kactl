@@ -1,3 +1,12 @@
+/**
+ * Author: among us 
+ * Date: recent 
+ * License: ??
+ * Source: ??
+ * Description: ??
+ * Time: ???
+ * Status: ???
+ */
 const int inf = 1e9;
 struct Node {
 	Node *l = 0, *r = 0;

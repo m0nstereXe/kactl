@@ -1,3 +1,12 @@
+/**
+ * Author: among us 
+ * Date: recent 
+ * License: ??
+ * Source: ??
+ * Description: ??
+ * Time: ???
+ * Status: ???
+ */
 
 // #define S for MAXN, T is S+1 and use add_edge
 struct dinic {

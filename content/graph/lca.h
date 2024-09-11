@@ -1,3 +1,12 @@
+/**
+ * Author: among us 
+ * Date: recent 
+ * License: ??
+ * Source: ??
+ * Description: ??
+ * Time: ???
+ * Status: ???
+ */
 
 void dfs(ll i, ll p) {
     dep[i] = dep[p] + 1;

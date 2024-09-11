@@ -1,3 +1,12 @@
+/**
+ * Author: among us 
+ * Date: recent 
+ * License: ??
+ * Source: ??
+ * Description: ??
+ * Time: ???
+ * Status: ???
+ */
 namespace d2d {
     using key_t = int;
     using T = int;

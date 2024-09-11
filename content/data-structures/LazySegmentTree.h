@@ -1,3 +1,12 @@
+/**
+ * Author: among us 
+ * Date: recent 
+ * License: ??
+ * Source: ??
+ * Description: ??
+ * Time: ???
+ * Status: ???
+ */
 namespace lztree {
     typedef ll T;
     typedef ll U;
