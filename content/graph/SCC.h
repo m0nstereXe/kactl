@@ -1,3 +1,10 @@
+/**
+ * Author: idk
+ * Date: idk
+ * Source: idk
+ * Description: SCC
+ * Status: idk
+ */
 
 vl graph[N], rGraph[N], sccList[N], ord;
 set<ll> sccGraph[N];
